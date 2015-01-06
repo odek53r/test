@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test2test
-=======
 test2test2
->>>>>>> branch4
